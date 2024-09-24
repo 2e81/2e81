@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @2e81
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @zayn
+- 👀 I’m interested in learning 
+- 🌱 I’m currently learning solidity
+- 💞️ I’m looking to collaborate on Fractal 
+- 📫 How to reach me dm me
 
 <!---
 2e81/2e81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
